@@ -1,0 +1,22 @@
+{
+	"name": "raulvfp/catchException",
+	"description": "Esta es una clase de VFP que tiene como fin capturar las excepciones y grabarlas en un log y si es necesaria relanzarlas a nivel superior.",
+	"authors": [
+		{
+			"name": "Raúl Juárez",
+			"email": "raul.jrz@gmail.com",
+			"homepage": "http://rauljrz.github.io/",
+			"role": "Developer"
+		}
+	],
+	"version": "1.0.0",
+	"require": {
+		"vfp": "^9.00"
+	},
+	"repositories": [
+		{
+			"type": "socktoaster",
+			"url": "http://www.socktoaster.com"
+		}
+	]
+}

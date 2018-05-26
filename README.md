@@ -10,8 +10,9 @@ Esta es una clase de VFP que tiene como fin capturar las excepciones y grabarlas
 **None! There is no dependency!**
 
 ## Installation
-git clone https://github.com/raulvfp/catchException.git ajaxRest
-
+```
+git clone https://github.com/raulvfp/catchException.git catchException
+```
 
 ## Usage
 **Properties:**

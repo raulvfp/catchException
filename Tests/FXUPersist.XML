@@ -159,7 +159,7 @@
 	</foxunitpersist>
 	<foxunitpersist>
 		<userid>Admin</userid>
-		<setting>THIS.grdTests.COLUMN2.Width = 745</setting>
+		<setting>THIS.grdTests.COLUMN2.Width = 741</setting>
 	</foxunitpersist>
 	<foxunitpersist>
 		<userid>Admin</userid>
@@ -167,7 +167,7 @@
 	</foxunitpersist>
 	<foxunitpersist>
 		<userid>Admin</userid>
-		<setting>=SEEK("TEST_CATCHEXCEPTION                                                                                           TEST_GENEROUNEXECPTIONTHROW                                                                                                       ",THIS.icGridRS,"TCLName")</setting>
+		<setting>=SEEK("TEST_CATCHEXCEPTION                                                                                           TESTCATCH_EXCEPTION                                                                                                               ",THIS.icGridRS,"TCLName")</setting>
 	</foxunitpersist>
 	<foxunitpersist>
 		<userid>Admin</userid>
